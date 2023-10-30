@@ -4,6 +4,8 @@ Transfer learning (TL) is a technique in machine learning (ML) in which knowledg
 
 Transfer of learning means the use of previously acquired knowledge and skills in new learning or problem-solving situations. Thereby similarities and analogies between previous and actual learning content and processes may play a crucial role
 
+**Architecture Diagram :**
+
 ![classifiers-transfer-learning](https://github.com/sohel-jagirdar/transfer_learning/assets/52422511/20cbd98b-7f84-46d3-a9ba-199291e34df5)
 
 ## STEPS -
